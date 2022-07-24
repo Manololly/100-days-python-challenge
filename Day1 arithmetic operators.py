@@ -29,5 +29,3 @@ print(f" The exponent value of a and b is {c}")
 #Floor Division(rounds the nearest value)
 c = a // b
 print(f" The Floor division of a and b is {c}")
-
-
